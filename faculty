@@ -154,42 +154,13 @@
                 <span class="dept-title">🔬 SCIENCE DEPARTMENT</span>
             </div>
             <div class="faculty-grid">
-                <div class="faculty-card"><div class="faculty-icon">🧪</div><h3>Mr. Mehul Dholakiya (Md Sir)</h3>
-		<div class="subject">Chemistry (Std 11-12)</div>
-		<div class="qualification">M.Sc., B.Ed.</div>
-		<div class="experience">15+ Years Experience</div></div>
-                
-
-		<div class="faculty-card"><div class="faculty-icon">⚛️</div><h3>Mr. Jatin Mehta</h3>
-		<div class="subject">Physics (Std 11-12)</div>
-		<div class="qualification">M.Sc., B.Ed.</div>
-		<div class="experience">13+ Years Experience</div></div>
-                
-		<div class="faculty-card"><div class="faculty-icon">🧬</div>
-		<h3>Dr. Ankur Thummar</h3><div class="subject">Biology (Std 09-12)</div>
-		<div class="qualification">Ph.D. Biology, M.Sc., B.Ed.</div>
-		<div class="experience">17+ Years Experience</div></div>
-
-                <div class="faculty-card"><div class="faculty-icon">⚗️</div>
-		<h3>Dr. Abhishek Joshi (Aj Sir)</h3><div class="subject">Chemistry (Std 9-10)</div>
-		<div class="qualification">Ph.D. Chemistry, M.Sc., B.Ed.</div>
-		<div class="experience">18+ Years Experience</div></div>
-
-                <div class="faculty-card"><div class="faculty-icon">📐</div>
-		<h3>Mr. Jay Joshi (JJ Sir)</h3><div class="subject">Physics (Std 9-10)</div>
-		<div class="qualification">M.Sc., B.Ed.</div>
-		<div class="experience">10+ Years Experience</div></div>
-	
-                <div class="faculty-card"><div class="faculty-icon">📊</div>
-		<h3>Dr. Mehul Ketan Kabariya (KK Sir)</h3>
-		<div class="subject">Maths (Std 11-12) & JEE</div>
-		<div class="qualification">Ph.D., M.Sc., B.Ed.</div>
-		<div class="experience">19+ Years Experience</div></div>
-	
-                <div class="faculty-card"><div class="faculty-icon">🔬</div>
-		<h3>Dr. Kamlesh Timbaliya (Kt Sir)</h3>
-		<div class="subject">Chemistry (Std 11-12)</div>
-		<div class="qualification">M.Sc., B.Ed.</div><div class="experience">15+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">🧪</div><h3>Mr. Mehul Dholakiya (Md Sir)</h3><div class="subject">Chemistry (Std 11-12)</div><div class="qualification">M.Sc., B.Ed.</div><div class="experience">15+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">⚛️</div><h3>Mr. Jatin Mehta</h3><div class="subject">Physics (Std 11-12)</div><div class="qualification">M.Sc., B.Ed.</div><div class="experience">13+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">🧬</div><h3>Dr. Ankur Thummar</h3><div class="subject">Biology (Std 09-12)</div><div class="qualification">Ph.D. Biology, M.Sc., B.Ed.</div><div class="experience">17+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">⚗️</div><h3>Dr. Abhishek Joshi (Aj Sir)</h3><div class="subject">Chemistry (Std 9-10)</div><div class="qualification">Ph.D. Chemistry, M.Sc., B.Ed.</div><div class="experience">18+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">📐</div><h3>Mr. Jay Joshi (JJ Sir)</h3><div class="subject">Physics (Std 9-10)</div><div class="qualification">M.Sc., B.Ed.</div><div class="experience">10+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">📊</div><h3>Dr. Mehul Ketan Kabariya (KK Sir)</h3><div class="subject">Maths (Std 11-12) & JEE</div><div class="qualification">Ph.D., M.Sc., B.Ed.</div><div class="experience">19+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">🔬</div><h3>Dr. Kamlesh Timbaliya (Kt Sir)</h3><div class="subject">Chemistry (Std 11-12)</div><div class="qualification">M.Sc., B.Ed.</div><div class="experience">15+ Years Experience</div></div>
             </div>
         </div>
 
@@ -199,25 +170,14 @@
                 <span class="dept-title">📖 LANGUAGE DEPARTMENT</span>
             </div>
             <div class="faculty-grid">
-                <div class="faculty-card"><div class="faculty-icon">🇬🇧</div>
-		<h3>Mr. Sagar Suthar</h3><div class="subject">English</div>
-		<div class="qualification">M.A., B.Ed.</div>
-		<div class="experience">5+ Years Experience</div></div>
-	
-                <div class="faculty-card"><div class="faculty-icon">🕉️</div>
-		<h3>Mr. Vinod Jani</h3><div class="subject">Sanskrit</div>
-		<div class="qualification">M.A., B.Ed.</div>
-		<div class="experience">25+ Years Experience</div></div>
-	
-                <div class="faculty-card"><div class="faculty-icon">💻</div>
-		<h3>Mrs. Kalpana Thakar</h3><div class="subject">Computer Science</div>
-		<div class="qualification">M.Sc. IT, B.Ed.</div>
-		<div class="experience">6+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">🇬🇧</div><h3>Mr. Sagar Suthar</h3><div class="subject">English</div><div class="qualification">M.A., B.Ed.</div><div class="experience">5+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">🕉️</div><h3>Mr. Vinod Jani</h3><div class="subject">Sanskrit</div><div class="qualification">M.A., B.Ed.</div><div class="experience">25+ Years Experience</div></div>
+                <div class="faculty-card"><div class="faculty-icon">💻</div><h3>Mrs. Kalpana Thakar</h3><div class="subject">Computer Science</div><div class="qualification">M.Sc. IT, B.Ed.</div><div class="experience">6+ Years Experience</div></div>
             </div>
         </div>
 
         <div class="back-btn">
-            <a href="welcome.html" class="btn-back">🏠 BACK TO HOME</a>
+            <a href="index.html" class="btn-back">🏠 BACK TO HOME</a>
         </div>
         <footer>
             <p>🎓 Vidhyaguru Science School | Quality Education Since 2010</p>
